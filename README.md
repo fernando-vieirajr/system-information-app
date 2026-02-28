@@ -14,7 +14,7 @@
 │   ├── app.module.ts
 │   ├── app.service.ts
 │   └── main.ts
-└── Tests/
+└── tests/
 ```
 
 ---
@@ -58,7 +58,7 @@ Service base do projeto.
 
 ---
 
-## 📂 Tests/
+## 📂 tests/
 
 Contém testes automatizados, como testes unitários e de integração.
 
